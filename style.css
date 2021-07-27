@@ -71,7 +71,7 @@ footer {
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
-    animation: blink 2s infinite;
+    animation: blink 1s infinite;
 }
 
 @keyframes blink {
