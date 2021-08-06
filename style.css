@@ -31,10 +31,10 @@ body {
 
 h1 {font-family: monospace;}
 
-a {text-decoration: none;}
+a {text-decoration: none;transition: color .25s;}
 a:link {color: #39d8cb;}
 a:visited {color: #3998d8;}
-a:hover {color: #34c7bb;}
+a:hover {color: #fff;}
 a:selected {color: #2eb1a6;}
 
 hr {
